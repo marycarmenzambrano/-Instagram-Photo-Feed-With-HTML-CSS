@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(211, 211, 211);
+}
+
+.titulo{
+    font-style: italic;
+    float: center;
+    text-align: center;
+    background: white;
+}
+
+.primera{
+    display: inline-block;
+    width: 80%;
+}
+
+.segunda{
+    display: inline-block;
+    width: 80%;
+}
+
+.tercera{
+    display: inline-block;
+    width: 80%;
+}
+
+.cuarta{
+    display: inline-block;
+    width: 80%;
+}
+
+p{
+    display: inline-block;
+    width: 18%;
+}
+
+.link{
+    display: inline-block;
+    width: 18%;
+}
+
+.mi-primer-perro{
+    width: 600px;
+}
+
+.mi-segundo-perro{
+    width: 600px;
+}
+
+.computadora{
+    width: 600px;
+}
+
+.almuerzo{
+    width: 600px;
+}
+
+div.container{
+    width: 600px;
+    margin: auto;
+    background: white;
+}
+
+div.container-dos{
+    width: 600px;
+    margin: auto;
+    background: white;
+}
+
+div.container-tres{
+    width: 600px;
+    margin: auto;
+    background: white;
+}
+
+div.container-cuatro{
+    width: 600px;
+    margin: auto;
+    background: white;
+}
